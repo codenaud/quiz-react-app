@@ -1,6 +1,6 @@
 # Quiz App [Open Trivia React App]
 
-[![Quiz App (Open Trivia React App Screenshot)](/assets/git-screenshot.png)](https://codenaud.github.io/quiz-app/)
+[![Quiz App (Open Trivia React App Screenshot)](/assets/git-screenshot.png)](https://codenaud.github.io/quiz-react-app/)
 
 ## Description
 
@@ -16,7 +16,7 @@ This project allowed me to apply my theoretical knowledge in a real context and 
 
 ## Live Demo
 
-Check out the live demo: [Quiz App Live Demo](https://codenaud.github.io/quiz-app/)
+Check out the live demo: [Quiz App Live Demo](https://codenaud.github.io/quiz-react-app/)
 
 ## Features
 
@@ -40,7 +40,7 @@ In order to make this application I have needed the use of several resources.
     - Open Trivia Database
     - Web: [URL](https://opentdb.com/api_config.php)
     - Documentation: [DOC](https://opentdb.com/api_config.php)
-    - Generate API: APIUrl = https://opentdb.com/api.php?amount=10&type=multiple
+    - Generate API: [APIUrl](https://opentdb.com/api.php?amount=10&type=multiple)
     - You can check the JSON Data with vscode extension --> [Thunder Client]
 
     --> Project Information
